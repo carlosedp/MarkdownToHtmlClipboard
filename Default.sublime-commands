@@ -1,6 +1,6 @@
 [
     {
-        "caption": "Convert Markdown to HTML and copy to Clipboard as RTF",
+        "caption": "Convert Markdown to RTF on clipboard",
         "command": "md2rtfclip"
     }
 ]
